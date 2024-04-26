@@ -23,15 +23,18 @@ The CPC shown above uses M3 screws for mounting, but the lens shown below uses c
 ## Bottom Attachment mounting
 Batteries and other attachments can be mounting to the bottom of the flashlight using the modular slide mechanism.
 The orange battery shown in some renders uses this slider mount to allow it to slide and lock onto the flashlight.
-There is a smal latch at the front of the flashlight that allows attachments to be removed.
+There is a small latch at the front of the flashlight that allows attachments to be removed.
 
 ![alt text](https://github.com/benhogervorst/mega_flashlight_public/blob/main/design/renders_rev2.5/bottom_iso2.png?raw=true)
 ![alt text](https://github.com/benhogervorst/mega_flashlight_public/blob/main/design/renders_rev2.5/bottom_iso.png?raw=true)
 ![alt text](https://github.com/benhogervorst/mega_flashlight_public/blob/main/design/renders_rev2.5/bottom.png?raw=true)
 
 
-## Rear I/O
+## Rear I/O and Controls
 The flashlight has two rear I/O ports - an XT-60 connector for power input and a USB-C port for programming the built in microcontroller.
+The flashlight uses a touch sensitive pad at the thumb position of the handle as the main trigger.  
+It turns the flashlight on and off with a brief single press, and cycles through brightness settings when held down.
+There is a small mode switching button on the rear of the flashlight, but modes aren't yet implemented.
 
 ![alt text](https://github.com/benhogervorst/mega_flashlight_public/blob/main/design/renders_rev2.5/rear.png?raw=true)
 
@@ -68,6 +71,7 @@ There are quite a few things that could be improved on this design, which are de
 
 ## Additional renders
 Below are some internal wireframe renders that show the layout of the flashlight.
+
 ![alt text](https://github.com/benhogervorst/mega_flashlight_public/blob/main/design/renders_rev2.5/iso_wireframe.png?raw=true)
 ![alt text](https://github.com/benhogervorst/mega_flashlight_public/blob/main/design/renders_rev2.5/front_wireframe.png?raw=true)
 ![alt text](https://github.com/benhogervorst/mega_flashlight_public/blob/main/design/renders_rev2.5/side_wireframe.png?raw=true)
