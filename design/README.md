@@ -3,7 +3,7 @@ Renders for the preliminary design of rev2.5 in Fusion 360
 
 
 ## Overview
-The MegaFlashlight is shown here with a 230Wh external battery and a large 2° CPC to show the modular nature of the design.
+The MegaFlashlight is shown here with a 230Wh external battery and a large 2° CPC to illustrate the modular nature of the design.
 
 ![alt text](https://github.com/benhogervorst/mega_flashlight_public/blob/main/design/renders_rev2.5/iso-cpc-230wh_battery.png?raw=true)
 ![alt text](https://github.com/benhogervorst/mega_flashlight_public/blob/main/design/renders_rev2.5/side-cpc-230wh_battery.png?raw=true)
